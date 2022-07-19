@@ -174,7 +174,7 @@ WIDGET = {
     "fixed": "false",
     "vertical": "center",
     "horizontal": "left",
-    "key": "fadd0ca457ac402fbc6332853a5841bb"
+    "key": " "
   }
 }
 </script>
@@ -201,7 +201,7 @@ WIDGET = {
         <div class="foot" style="height: 40px;">
           <a href="https://www.daoblog.top/" style="color: #777;">博客</a> | 
           <a href="https://ydlk.cc/s/" style="color: #777;">导航</a> | 
-          <a href="https://github.com/YanDao0313/sou/" style="color: #777;">开源</a><br>
+          <a href="https://github.com/YanDao0313/startpage/" style="color: #777;">开源</a><br>
           © 2022-<?php echo date("Y") ?> by <a href="https://www.daoblog.top/">Yandao</a> . All rights reserved.</div>
     </div>
 </body>
