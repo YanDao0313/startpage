@@ -6,21 +6,21 @@
 
 
 ###  GIF示例效果
-![简单搜索](https://i.loli.net/2021/01/19/JsV34pBOcTbZk79.gif)
+![YDS演示图片](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/5115/20220719141252.png)
 > （原仓库代码图片效果，以实际页面为准） 
 
 
 
 ## 下载地址：  
 
-[Releases](https://github.com/YanDao0313/startpage/releases)  
+[仓库Releases](https://github.com/YanDao0313/startpage/releases)  
 
 
 
 
 ## 示例页面：    
  
-+ php版本：[https://ydlk.cc/s/](https://ydlk.cc/s/)  
++ 修改后的php版本：[https://ydlk.cc/s/](https://ydlk.cc/s/)  
 
 + html+js+css版本(原作者写了个新的，有空去围观)：[https://github.com/5iux/5iux.github.io](https://github.com/5iux/5iux.github.io)  
 
