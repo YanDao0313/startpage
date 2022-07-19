@@ -155,30 +155,30 @@ if (empty($q)) {
     </div>
 <!--天气-->
     <div id="he-plugin-simple"></div>
-<script>
-WIDGET = {
-  "CONFIG": {
-    "modules": "10234",
-    "background": "1",
-    "tmpColor": "FFFFFF",
-    "tmpSize": "16",
-    "cityColor": "F2F2F2",
-    "citySize": "16",
-    "aqiColor": "FFFFFF",
-    "aqiSize": "16",
-    "weatherIconSize": "24",
-    "alertIconSize": "20",
-    "padding": "10px 10px 10px 10px",
-    "shadow": "1",
-    "language": "auto",
-    "fixed": "false",
-    "vertical": "center",
-    "horizontal": "left",
-    "key": " "
-  }
-}
-</script>
-<script src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>
+        <script>
+        WIDGET = {
+          "CONFIG": {
+            "modules": "01234",
+            "background": "5",
+            "tmpColor": "000000",
+            "tmpSize": "16",
+           "cityColor": "434343",
+            "citySize": "16",
+            "aqiColor": "000000",
+            "aqiSize": "16",
+            "weatherIconSize": "24",
+            "alertIconSize": "20",
+            "padding": "10px 10px 10px 10px",
+            "shadow": "0",
+          "language": "auto",
+           "fixed": "false",
+          "vertical": "center",
+          "horizontal": "left",
+           "key": "**********************************"
+         }
+        }
+        </script>
+    <script src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>
     <div id="content">
         <div class="con">
             <div class="shlogo" style="background: url(icon/logo3.svg) no-repeat center/cover;"></div>
@@ -201,7 +201,7 @@ WIDGET = {
         <div class="foot" style="height: 40px;">
           <a href="https://www.daoblog.top/" style="color: #777;">博客</a> | 
           <a href="https://ydlk.cc/s/" style="color: #777;">导航</a> | 
-          <a href="https://github.com/YanDao0313/startpage/" style="color: #777;">开源</a><br>
+          <a href="https://github.com/YanDao0313/startpage" style="color: #777;">开源</a><br>
           © 2022-<?php echo date("Y") ?> by <a href="https://www.daoblog.top/">Yandao</a> . All rights reserved.</div>
     </div>
 </body>
