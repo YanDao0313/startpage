@@ -1,8 +1,10 @@
 # YDStart 已被 Yandao Search 取代，此仓库将不再维护
 
+访问[Yandao Search](https://search.蒙古上单.cn/)，体验一个为做好本职工作而生的聚合搜索引擎
+
 ----------------------------
 
-# YD Start Page
+## YD Start Page
 
 用惯了各种导航首页，满屏幕尽是各种不厌其烦的广告和资讯；尝试自己写个自己的主页。不是镜像不是代理，就当做浏览器主页使用，支持自适应屏幕。  
 原仓库在[这里](https://github.com/5iux/sou)
